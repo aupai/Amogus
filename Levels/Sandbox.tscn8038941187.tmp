@@ -3,7 +3,7 @@
 [ext_resource type="PackedScene" uid="uid://kgw3bcah47vt" path="res://Player/player.tscn" id="1_cm70w"]
 [ext_resource type="Material" uid="uid://dgvrx4fdtjmtm" path="res://Levels/Materials/GreyMaterial.tres" id="1_q2e3v"]
 [ext_resource type="Material" uid="uid://b37j8y45xg4mm" path="res://Levels/Materials/OrangeMaterial.tres" id="3_nwgsj"]
-[ext_resource type="PackedScene" uid="uid://d4ldu8hkchgdj" path="res://Enemy/nick_gerrs.tscn" id="4_nwgsj"]
+[ext_resource type="PackedScene" uid="uid://d4ldu8hkchgdj" path="res://nick gerrs/nick_gerrs.tscn" id="4_nwgsj"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_2bpwj"]
 sky_horizon_color = Color(0.662243, 0.671743, 0.686743, 1)

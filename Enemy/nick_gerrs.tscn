@@ -1,6 +1,6 @@
 [gd_scene load_steps=9 format=3 uid="uid://d4ldu8hkchgdj"]
 
-[ext_resource type="Script" uid="uid://dm2lv87lcl6ph" path="res://nick gerrs/nick_gerrs.gd" id="1_td61j"]
+[ext_resource type="Script" uid="uid://dm2lv87lcl6ph" path="res://Enemy/nick_gerrs.gd" id="1_td61j"]
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_8ik0y"]
 
